@@ -5,4 +5,4 @@ The beacon_flood assignment code of mentor gilgil.
 장착 후 모니터 모드 활성화합니다.
 
 사용 방법은 아래와 같습니다.
-python3 beacon-flood [인터페이스명] [ssid-list.txt 경로]
+python3 beacon-flood.py [인터페이스명] [ssid-list.txt 경로]
